@@ -9,7 +9,7 @@ Flutter, Dart 이용한 Android, iOS 앱 개발
 <a href="https://flutter-ko.dev/docs/get-started/flutter-for/web-devs"  target="_blank"  >Flutter for web developers</a>
 
 
-
+#### 1. 2022-03-30 뭔가 시작할 시기가 온거 같은데. 
 
 
 
