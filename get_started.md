@@ -34,6 +34,20 @@ Getting Started
 만약 flutter 명령어가 활성화되지 않았다면 PATH 문제일 가능성이 높다. 만약 그렇다면 PATH를 자세히 살펴보면 된다
 
 
+Android Studio 설치
+
+설치 후  Flutter를 사용하기 위한 환경을 설정해보자. 우측 하단의 Configure를 누르고 Preference를 클릭한다.
+
+Plugins를 검색한다.
+
+플러그인 목록을 보면 Flutter가 있다. 설치. 
+
+
+Simulator
+Flutter가 기본적으로 앱을 만드는 라이브러리이다 보니 iOS 또는 Android 시뮬레이터를 사용할 수 있다. iOS는 MacOS에서만 사용 가능하고 Android는 모든 OS에서 사용 가능하다.
+
+
+
 
 
 [*참고 링크*] (https://medium.com/flutter-korea/get-started-with-flutter-9703c3f6bd4f)
