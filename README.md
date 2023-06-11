@@ -78,10 +78,13 @@ The Flutter project has a number of repositories, some important ones include:
 아직이다~
 not yet~
 
+[Flutter: the good, the bad and the ugly](https://medium.com/asos-techblog/flutter-vs-react-native-for-ios-android-app-development-c41b4e038db9)
 
 ...
 
     2023-05-04 엑셀보다 기능이 더 없는 단순한 일지를 만들어볼까. 
+    
+    2023-06-12 Flutter: the good, the bad and the ugly
     
     
 -
