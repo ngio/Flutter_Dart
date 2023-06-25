@@ -86,5 +86,10 @@ not yet~
     
     2023-06-12 Flutter: the good, the bad and the ugly
     
-    
+    2023-06-26 Flutter markup language
+[Flutter 그냥 플러터가 아닌 이유는 무엇입니까? Flutter Markup Language의 이점 및 사용 사례](https://medium.com/@TheOlajos/why-not-just-flutter-benefits-and-use-cases-of-flutter-markup-language-5e88aa23aeee)
+
+
+
+
 -
