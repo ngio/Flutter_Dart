@@ -96,6 +96,11 @@ not yet~
 [Flutter 그냥 플러터가 아닌 이유는 무엇입니까? Flutter Markup Language의 이점 및 사용 사례](https://medium.com/@TheOlajos/why-not-just-flutter-benefits-and-use-cases-of-flutter-markup-language-5e88aa23aeee)
 
 
+[Flutter and Clean Architecture(I)](https://aderibigbejesutoni860.medium.com/flutter-and-clean-architecture-i-be75e13608d4)
+
+[Flutter and Clean Architecture (II)](https://aderibigbejesutoni860.medium.com/flutter-and-clean-architecture-ii-bf39113df82b)
+
+
 
 
 -
