@@ -82,6 +82,8 @@ The Flutter project has a number of repositories, some important ones include:
 ## [Best Flutter IDE for Front-End Development](https://medium.com/getpieces/best-flutter-ide-for-front-end-development-450bd449f543)
 
 
+## [Flutter에서 딥링킹을 구현하는 방법은 무엇입니까?](https://medium.com/@dudhatkirtan/how-to-implement-deep-linking-in-flutter-f882b6d834da)
+
 ========================================================================
 
 #### 1. 2022-03-30 뭔가 시작할 시기가 온거 같은데. 
